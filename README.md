@@ -17,6 +17,7 @@ namespace csharp
 }
 
 ```
+![alt text](https://github.com/udayallu/csharp/blob/master/data/prog1.png)
 ### Accepting the input from the user and printing it 
 ```
 using System;
@@ -33,6 +34,7 @@ namespace csharp
     }
 }
 ```
+![alt text](https://github.com/udayallu/csharp/blob/master/data/prog2.png)
 ###  String Concatenation
 ```
 using System;
@@ -49,6 +51,7 @@ namespace csharp
     }
 }
 ```
+![alt text](https://github.com/udayallu/csharp/blob/master/data/prog3.png)
 ## Variables
 ### Storing Information in Variables
 ```
@@ -71,4 +74,7 @@ namespace program4
 }
 
 ```
+![alt text](https://github.com/udayallu/csharp/blob/master/data/prog4.png)
+
+
 
